@@ -2,7 +2,7 @@
 
 /**
  * @title NFTIndexAndUrl
- * @author ProDesert22 and Ita
+ * @author ProDesert22 and itamarcps
  */
 
 // https://github.com/prodesert22/NFTIndexAndUrl
