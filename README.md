@@ -1,5 +1,5 @@
-# NFTIndexAndUrl
-Get the NFTs indexes and url, owned by the address
+# NFTIndexAndUri
+Get the NFTs indexes and uri, owned by the address
 
 ## Functions 
 
@@ -7,7 +7,7 @@ Get the NFTs indexes and url, owned by the address
 Returns the token's indexes owned by the address in the given contract
 
 ### getNFTIndexAndUrl
-Returns the token's indexes owned by the address and NFT's url, in the given contract
+Returns the token's indexes owned by the address and NFT's uri, in the given contract
 
 ### getNFTsIndexAndUrl
 Returns array of NFT's struct in the given contracts
@@ -15,6 +15,10 @@ Returns array of NFT's struct in the given contracts
 struct Nft {
     contract_address - address of contract
     tokenId - index of nft in contract
-    url - url of image
+    uri - uri of nft (can be a link to image or json)
 }
 ```
+
+## Deploys
+
+[Fuji](https://cchain.explorer.avax-test.network/address/0x9C302ecc5d029bD67115473aa02961b6338093Af)
