@@ -21,4 +21,6 @@ struct Nft {
 
 ## Deploys
 
+[Main net](https://cchain.explorer.avax.network/address/0xDd273B84032a4e3C4C88bEcA701C7D0118DE37e5)
+
 [Fuji](https://cchain.explorer.avax-test.network/address/0x9C302ecc5d029bD67115473aa02961b6338093Af)
